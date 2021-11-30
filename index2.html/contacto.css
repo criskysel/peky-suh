@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    color: #4c4c4c;
+    font-family: 'Monserrat', sans-serif;
+    font-size: 14px;
+}
+label, input[type="submit"]{
+    margin-top: 6px;
+}
+label{
+    margin-top: 6px;
+}
+.btn:focus{
+    outline: none;
+}
+.ibody{
+    background-color: #ecf0f3;
+    border: 1px solid #bfd8eb;
+    border-radius: 8px;
+    margin: 30px auto;
+    width: 500px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+
+}
+.jumbotron{
+    background-color: #bfd8eb;
+    border-radius: 8px 8px 0px 0px;
+    margin-bottom: 0px;
+    padding: 16px;
+    -webkit-border-radius: 8px 8px 0px 0px;
+    -moz-border-radius: 8px 8px 0px 0px;
+}
+.jumbotron h1{
+    color: #77a5c7;
+    font-size: 36px;
+    text-align: center;
+    text-shadow: 0px 1px #fff;
+}
+.fcontacto{
+    padding: 18px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
